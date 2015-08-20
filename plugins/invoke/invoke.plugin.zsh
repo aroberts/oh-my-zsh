@@ -1,1 +1,1 @@
-# from https://github.com/hhatto/zsh_completions
+# from https://github.com/pyinvoke/invoke/blob/master/completion/zsh
